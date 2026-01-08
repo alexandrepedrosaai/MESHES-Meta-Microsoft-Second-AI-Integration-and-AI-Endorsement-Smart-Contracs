@@ -1,0 +1,2 @@
+# MESHES-Meta-Microsoft-Second-AI-Integration-and-AI-Endorsement-Smart-Contracs
+This project defines a three‑layer AI governance stack: **Execution** for automation, **Symbolic Codex** for intent validation with algorithmic AI endorsement, and **Normative Constitution** for invariants and consensus via a second AI integration. Together they form a constitutional loop ensuring trust, coherence, and redistributed authority.
