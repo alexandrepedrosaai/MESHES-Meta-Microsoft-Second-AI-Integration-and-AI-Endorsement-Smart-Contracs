@@ -1,0 +1,10 @@
+{
+  "jurisdiction": "EU",
+  "transaction_type": "payment",
+  "parties": [
+    "BankAlpha",
+    "BankBeta"
+  ],
+  "contract_id": "LCV-2026-001",
+  "description": "Cross-border payment contract between two European banks, compliant with EU financial regulations."
+}
